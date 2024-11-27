@@ -14,5 +14,3 @@ Software Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://app.dropinblog.com/uploaded/blogs/34249715/files/featured/jupyter_notebook.png"/> 
 
-
-![LeetCode Stats](https://leetcode.panchajanya.dev/Tamilram2003?theme=dark&font=Cabin)
