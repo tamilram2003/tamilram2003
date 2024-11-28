@@ -1,7 +1,7 @@
-## Hi there 👋 It's me Tamil Ram Ganesan
+## Hi there 👋 It's me Tamil 
 
 <b>Computer science Engineer</b> 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
+//<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m an BE graduate
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech
